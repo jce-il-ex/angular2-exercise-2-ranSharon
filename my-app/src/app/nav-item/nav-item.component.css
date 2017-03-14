@@ -1,0 +1,11 @@
+.item   
+{
+    font-size: 70px;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    background:linear-gradient(blue, white,white);
+    font-family:  sans-serif;
+    border: solid 1px;
+    border-radius: 10px;
+}
